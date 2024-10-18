@@ -7,3 +7,6 @@ The different simulation exercises (TDs) will be added to the list below as they
 
 ## TD2 - Les Fractales
 [2 fractal sets: Mandelbrot and Julia](/2_Mandelbrot_Set)
+
+## TD3 - L-Systems
+[Trees with Houdini's L-System](/3_L-Systems)
