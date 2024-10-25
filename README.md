@@ -10,3 +10,6 @@ The different simulation exercises (TDs) will be added to the list below as they
 
 ## TD3 - L-Systems
 [Trees with Houdini's L-System](/3_L-Systems)
+
+## TD4 - Algorithmes Génétiques
+[DNA: Red, Green, Blue](/4_Genetic_Algorithm)
